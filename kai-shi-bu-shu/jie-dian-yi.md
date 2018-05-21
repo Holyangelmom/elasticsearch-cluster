@@ -1,6 +1,6 @@
 1、解压
 
-tar -zxvf elasticsearch-2.3.4.tar.gz
+> tar -zxvf elasticsearch-2.3.4.tar.gz
 
 2、移动
 
