@@ -14,15 +14,3 @@ elasticsearch-head版本：1.x
 
 elasticsearch-jdbc版本：2.3.4.0
 
-
-
-
-
-
-
-
-
-
-
-
-
