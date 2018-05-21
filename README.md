@@ -1,6 +1,6 @@
 # Elasticsearch cluster deployment notes
 
-本书讲述如何在centos中部署elasticsearch集群，以及安装相关插件。因为每个人的部署平台都或多或少存在差异性，所以本书仅供参考，若有不当之处，还望指出。
+本书讲述如何在centos中部署elasticsearch集群，以及安装相关插件。因为每个人的部署平台都存在差异性，所以本书仅供参考，若有不当之处，还望指出。
 
 linux版本：CentOS release 6.8 \(Final\)
 
