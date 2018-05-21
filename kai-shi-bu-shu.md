@@ -6,5 +6,5 @@
 | 10.194.186.45 | 数据节点 |
 | 10.194.186.46 | 数据节点 |
 
-关于协调节点及数据节点的解释请参考elasticsearch文档[http://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html](http://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)。注意，作者在完成10.194.186.44节点一的部署后，直接将节点一安装好的的elasticsearch文件夹拷贝至10.194.186.45、10.194.186.46节点，以便更快完成部署工作。
+关于协调节点及数据节点的解释请参考elasticsearch文档[http://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html](http://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)。注意，作者在完成10.194.186.44节点的部署后，直接将安装好的的elasticsearch文件夹拷贝至10.194.186.45、10.194.186.46节点，以便更快完成部署工作。
 
