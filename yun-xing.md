@@ -16,5 +16,5 @@ _PS：下图只为样例，并非刚安装好的形式。_
 
 ![](/assets/head_index.png)
 
-3、至此，elasticsearch的集群安装结束。
+
 
