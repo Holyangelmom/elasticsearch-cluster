@@ -3,7 +3,7 @@
 * 安装jdk1.8
 * 创建用户elastic
 * 从官网或者github下载elasticsearch-2.3.4
-* 环境设置
+* 环境设置如下：
 ```
   （1）修改内存锁定限制 /etc/security/limits.conf
 
