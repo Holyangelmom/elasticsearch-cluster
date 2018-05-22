@@ -10,7 +10,7 @@
 
 * 每台机器安装jdk1.8
 * 每台机器创建用户elastic
-* 从官网或者github下载elasticsearch-2.3.4
+* 从[ES官网](http://www.elastic.co/)或者[github](https://github.com/elastic/elasticsearch)下载elasticsearch-2.3.4
 * 每台机器环境设置如下：
 
   ```
