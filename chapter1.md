@@ -11,7 +11,7 @@
 * 每台机器安装jdk1.8
 * 每台机器创建用户elastic
 * 到[ES官网](http://www.elastic.co/)或者[github](https://github.com/elastic/elasticsearch)下载elasticsearch-2.3.4
-* 到[github](https://github.com/medcl/elasticsearch-analysis-ik/tree/2.x)下载elasticsearch-analysis-ik-1.9.4
+* 到[github](https://github.com/medcl/elasticsearch-analysis-ik/tree/2.x)下载elasticsearch-analysis-ik-1.9.4的源码
 * 每台机器环境设置如下：
 
   ```
